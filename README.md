@@ -14,21 +14,22 @@ entité JPA Patient ayant les attributs :
 <img width="424" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/4f72dee4-a12e-4ec5-b264-f034621a7e93">
 
  interface JPA Repository basée sur Spring data
+
       ConsultationRepository
 
-            <img width="495" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/ab79eef0-88af-4b01-ada4-b50705d4f8a0">
+<img width="495" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/ab79eef0-88af-4b01-ada4-b50705d4f8a0">
 
       MedecinRepository
 
-            <img width="451" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/7e0fff28-5b5c-455e-8ab3-a90311370e6c">
+<img width="451" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/7e0fff28-5b5c-455e-8ab3-a90311370e6c">
 
       PatientRepository
 
-            <img width="451" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/b939b28b-36df-409f-8b33-783d1cbea7bf">
+<img width="451" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/b939b28b-36df-409f-8b33-783d1cbea7bf">
       
       RendezVousRepository
 
-            <img width="497" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/cb1b748b-2261-4170-b023-60daad062d41">
+<img width="497" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/cb1b748b-2261-4170-b023-60daad062d41">
 
 
 ----------------------------------------------------
