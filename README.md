@@ -1,6 +1,6 @@
 Projet Spring  avec les dépendances JPA, H2, Spring Web et Lombock
 
-entité JPA Patient ayant les attributs :- id de type Long - nom de type String- dateNaissanec de type Date - malade de type boolean - score de type int
+entité JPA Patient ayant les attributs :- id de type Long - nom de type String- dateNaissanec de type Date - malade de type boolean 
 
 <img width="459" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/acf1cf8d-6a0f-4cbd-9e40-0b26bae0599d">
 
