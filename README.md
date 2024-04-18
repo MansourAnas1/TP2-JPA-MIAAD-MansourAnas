@@ -11,6 +11,7 @@ entité JPA Patient ayant les attributs :
 
  le ficher application.properties 
 
+
 <img width="424" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/4f72dee4-a12e-4ec5-b264-f034621a7e93">
 
  interface JPA Repository basée sur Spring data
@@ -27,12 +28,16 @@ entité JPA Patient ayant les attributs :
             <img width="497" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/cb1b748b-2261-4170-b023-60daad062d41">
 
 
+
 <img width="454" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/d804f733-9270-4509-a29f-27c1f97ac07f">
+
 
 <img width="499" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/901c9e9e-3164-4349-9747-b5a3d4de9411">
 
 
+
 <img width="522" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/2ce61f7c-9a3c-471f-8c01-2d576a7a38d3">
+
 
 <img width="408" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/c9c110a1-504a-4cef-96a6-82f4593418bd">
 
