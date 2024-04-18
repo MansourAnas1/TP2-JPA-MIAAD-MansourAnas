@@ -1,4 +1,4 @@
-""" projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock """
+Projet Spring  avec les dépendances JPA, H2, Spring Web et Lombock
 
 entité JPA Patient ayant les attributs :- id de type Long - nom de type String- dateNaissanec de type Date - malade de type boolean - score de type int
 
