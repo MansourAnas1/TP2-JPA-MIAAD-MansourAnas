@@ -34,7 +34,7 @@ entité JPA Patient ayant les attributs :
 -
 
 <img width="499" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/901c9e9e-3164-4349-9747-b5a3d4de9411">
---
+-
 
 <img width="522" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/2ce61f7c-9a3c-471f-8c01-2d576a7a38d3">
 
