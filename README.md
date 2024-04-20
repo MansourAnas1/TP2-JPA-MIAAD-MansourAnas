@@ -65,21 +65,25 @@ Affiche la réponse JSON renvoyée par le serveur, contenant la liste des patien
 <img width="408" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/c9c110a1-504a-4cef-96a6-82f4593418bd">
 
 
-Migrer de H2 Database vers MySQL :
+## Migrer de H2 Database vers MySQL :
 
 pom.xml :
+
 <img width="333" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/727b5c63-59ad-4f07-b058-7bdb57fe1e7d">
 
 application.proprties :
+
 <img width="592" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/197bc4df-9760-42dc-b81c-0c5039bfd3a7">
 
 XAMPP :
+
 <img width="498" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/ac9a3379-1cee-4847-950c-243121b11bcc">
 
 interface phpMyAdmin : 
-<img width="917" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/c5ada9c9-5786-4fed-b8bf-67c202a14b9e">
 
+<img width="917" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/c5ada9c9-5786-4fed-b8bf-67c202a14b9e">
 --
+
 <img width="742" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/13ed316a-39a2-4266-9014-a3fe4f1a23fb">
 
 
