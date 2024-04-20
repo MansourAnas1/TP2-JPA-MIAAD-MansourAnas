@@ -1,3 +1,4 @@
+
 Projet Spring  avec les dépendances JPA, H2, Spring Web et Lombock
 
 <img width="440" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/a8232f52-0d79-4c32-bb02-e0a1c9645324">
@@ -27,6 +28,12 @@ entité JPA Patient ayant les attributs :- id de type Long - nom de type String
       RendezVousRepository
 
 <img width="497" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/cb1b748b-2261-4170-b023-60daad062d41">
+
+Diagrammes : 
+
+<img width="565" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/9654d3e6-fc4a-4b9d-85af-fa6a7ef82287">
+----------------------------------------
+<img width="565" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/afb32725-2e90-4f39-8d9d-e17a2b0e5472">
 
 
 ----------------------------------------------------
