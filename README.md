@@ -8,7 +8,7 @@
 
 --
 
-## dependecy sur pom.xml : 
+## dependency sur pom.xml : 
 
 <img width="440" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/a8232f52-0d79-4c32-bb02-e0a1c9645324">
 
@@ -68,7 +68,7 @@
 
 ## Migrer de H2 Database vers MySQL :
 
-# pom.xml :
+## dependency sur pom.xml : 
 
 <img width="333" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/727b5c63-59ad-4f07-b058-7bdb57fe1e7d">
 
