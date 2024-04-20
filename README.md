@@ -1,5 +1,8 @@
 
-Projet Spring  avec les dépendances JPA, H2, Spring Web et Lombock
+
+Projet Spring  avec les dépendances JPA, H2, Spring Web et Lombock 
+<img width="565" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/9654d3e6-fc4a-4b9d-85af-fa6a7ef82287">
+
 
 <img width="440" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/a8232f52-0d79-4c32-bb02-e0a1c9645324">
 
@@ -13,27 +16,27 @@ entité JPA Patient ayant les attributs :- id de type Long - nom de type String
 
  interface JPA Repository basée sur Spring data
 
-      ConsultationRepository
+ConsultationRepository :
 
 <img width="495" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/ab79eef0-88af-4b01-ada4-b50705d4f8a0">
 
-      MedecinRepository
+MedecinRepository :
 
 <img width="451" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/7e0fff28-5b5c-455e-8ab3-a90311370e6c">
 
-      PatientRepository
+PatientRepository :
 
 <img width="451" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/b939b28b-36df-409f-8b33-783d1cbea7bf">
       
-      RendezVousRepository
+RendezVousRepository  :
 
 <img width="497" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/cb1b748b-2261-4170-b023-60daad062d41">
 
-Diagrammes : 
-
-<img width="565" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/9654d3e6-fc4a-4b9d-85af-fa6a7ef82287">
-----------------------------------------
+----------------
 <img width="565" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/afb32725-2e90-4f39-8d9d-e17a2b0e5472">
+
+
+
 
 
 ----------------------------------------------------
