@@ -1,10 +1,17 @@
-Ce projet explore Spring Boot pour la création d'une application de gestion des patients, en mettant l'accent sur la persistance des données et la migration entre les bases de données H2 et MySQL.
+### Ce projet explore Spring Boot pour la création d'une application de gestion des patients, en mettant l'accent sur la persistance des données et la migration entre les bases de données H2 et MySQL. ###
 
-Projet Spring  avec les dépendances JPA, H2, Spring Web et Lombock 
+## Auteur : Anas Mansour 
+## Année universitaire : 2023-2024
+## Master MIAAD 
+
 <img width="565" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/9654d3e6-fc4a-4b9d-85af-fa6a7ef82287">
 
+--
+
+dependecy sur pom.xml : 
 
 <img width="440" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/a8232f52-0d79-4c32-bb02-e0a1c9645324">
+
 
 entité JPA Patient ayant les attributs :- id de type Long - nom de type String- dateNaissanec de type Date - malade de type boolean 
 
@@ -40,6 +47,7 @@ RendezVousRepository  :
 
 
 ----------------------------------------------------
+interface H2  : 
 <img width="454" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/d804f733-9270-4509-a29f-27c1f97ac07f">
 
 ---------------------------------------------------
@@ -52,6 +60,8 @@ RendezVousRepository  :
 
 
 ---------------------------------------------
+Affiche la réponse JSON renvoyée par le serveur, contenant la liste des patients
+
 <img width="408" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/c9c110a1-504a-4cef-96a6-82f4593418bd">
 
 
@@ -66,9 +76,11 @@ application.proprties :
 XAMPP :
 <img width="498" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/ac9a3379-1cee-4847-950c-243121b11bcc">
 
-phpMyAdmin : 
+interface phpMyAdmin : 
 <img width="917" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/c5ada9c9-5786-4fed-b8bf-67c202a14b9e">
 
+--
+<img width="742" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/13ed316a-39a2-4266-9014-a3fe4f1a23fb">
 
 
 
