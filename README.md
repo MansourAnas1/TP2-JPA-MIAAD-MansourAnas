@@ -1,4 +1,4 @@
-
+Ce projet explore Spring Boot pour la création d'une application de gestion des patients, en mettant l'accent sur la persistance des données et la migration entre les bases de données H2 et MySQL.
 
 Projet Spring  avec les dépendances JPA, H2, Spring Web et Lombock 
 <img width="565" alt="image" src="https://github.com/MansourAnas1/TP2-JPA-MIAAD-MansourAnas/assets/167020036/9654d3e6-fc4a-4b9d-85af-fa6a7ef82287">
